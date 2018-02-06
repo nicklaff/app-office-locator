@@ -35,7 +35,7 @@ namespace OfficeLocator
 		{
             // This is a sample read-only azure site for demo
             // Follow the readme.md in the GitHub repo on how to setup your own.
-#error Missing Azure Endpoint URL
+https://calfirestations.azurewebsites.us
             MobileService = new MobileServiceClient("[your endpoint here]");
         }
 
